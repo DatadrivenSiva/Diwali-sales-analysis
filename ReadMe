@@ -1,0 +1,38 @@
+Diwali Sales Data Analysis
+
+Objective
+Analyze Diwali sales data to gain insights into customer behavior, uncover trends across 
+regions and demographics, and suggest business strategies to improve customer experience and boost sales.
+
+🛠️Tools & Technologies Used
+    *Python
+    *Jupyter Notebook / Google Colab
+    *Libraries: pandas, numpy, matplotlib, seaborn
+
+📌 Key Analysis Performed
+Gender-wise and Age-wise spending patterns
+Regional (Zone & State) purchase performance
+Occupation vs Spending behavior
+Marital status influence on purchase
+Product category frequency and revenue
+Correlation between number of orders and purchase amount
+
+🔍 Insights
+26–35 age group and male customers spend the most.
+North Zone and Maharashtra had the highest total sales.
+Married customers spent more than singles, suggesting family-oriented purchases.
+Product Category 1 dominated in both frequency and revenue.
+Occupation 4 and 0 showed higher spending behavior.
+
+💡 Business Recommendations
+Target the 26–35 age group with exclusive offers.
+Run more regional promotions in top-performing zones (e.g., North).
+Offer family bundles and loyalty rewards for married/repeat customers.
+Ensure inventory readiness for top-selling product categories.
+
+📈 Output
+The project generates detailed visualizations and insights using bar charts, count plots, and summary statistics to support each business insight.
+
+✅ Conclusion
+This project showcases how data analytics can be used to drive marketing decisions and improve customer engagement during seasonal campaigns like Diwali.
+
